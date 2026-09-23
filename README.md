@@ -2,9 +2,11 @@
 
 A tiny client-side web tool that converts a [Beyond All Reason](https://www.beyondallreason.info/) tweakunits table into the encoded `!bset tweakunits` chat command.
 
+Hosted on GitHub Pages: https://acquati.github.io/BAR-Tweakunits-Encoder/
+
 ## Usage
 
-Open `index.html` in a browser. Paste a BAR tweakunits table into the input panel and the encoded command is generated live:
+Open [GitHub Pages link](https://acquati.github.io/BAR-Tweakunits-Encoder/) or `index.html` in a browser. Paste a BAR tweakunits table into the input panel and the encoded command is generated live:
 
 ```
 !bset tweakunits <base64>
