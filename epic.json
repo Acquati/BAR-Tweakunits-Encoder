@@ -50,7 +50,4 @@
   cordoomt3 = {
     unitrestricted = 0,
   },
-  armbotrail = {
-    unitrestricted = 0,
-  },
 }
