@@ -1,0 +1,53 @@
+{
+  armafust3 = {
+    unitrestricted = 0,
+  },
+  armmmkrt3 = {
+    unitrestricted = 0,
+  },
+  corafust3 = {
+    unitrestricted = 0,
+  },
+  cormmkrt3 = {
+    unitrestricted = 0,
+  },
+  legafust3 = {
+    unitrestricted = 0,
+  },
+  legadveconvt3 = {
+    unitrestricted = 0,
+  },
+  armnanotc2plat = {
+    unitrestricted = 0,
+  },
+  armnanotct2 = {
+    unitrestricted = 0,
+  },
+  cornanotc2plat = {
+    unitrestricted = 0,
+  },
+  cornanotct2 = {
+    unitrestricted = 0,
+  },
+  legnanotct2 = {
+    unitrestricted = 0,
+  },
+  legnanotct2plat = {
+    unitrestricted = 0,
+  },
+  armgatet3 = {
+    unitrestricted = 0,
+  },
+  corgatet3 = {
+    unitrestricted = 0,
+  },
+  leggatet3 = {
+    unitrestricted = 0,
+  },
+  armannit3 = {
+    unitrestricted = 0,
+  },
+  cordoomt3 = {
+    unitrestricted = 0,
+  },
+}
